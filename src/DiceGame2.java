@@ -45,3 +45,6 @@ public class DiceGame2 {
 	}
 
 }
+
+
+// Please add comments to describe the purpose/usage of the 2 for loops/statements
